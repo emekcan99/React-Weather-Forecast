@@ -1,0 +1,29 @@
+.card{
+    
+    border-color: black;
+    border-radius: 5%;
+    margin-bottom: 15px;
+}
+.cards {
+    
+    column-count: 8;
+    margin-inline-end: auto;
+    margin-inline-start: auto;
+    margin-bottom: auto;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    block-size: 50%;
+  }
+.CityForm{
+    position: static;
+    width: 212px;
+}
+
+.CurrentCard{
+    
+    width: 645px;
+    left: 300px;
+    bottom: 855px;
+    height: fit-content;
+}
